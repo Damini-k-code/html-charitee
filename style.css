@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+
+body,h1,h2,h3,h4,h5,h6,a,li {
+    font-family: "Jost", sans-serif;
+}
+
+section.banner {
+    background-image: url(Images/h1_hero1\ 1.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: top center;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.nav-link:hover {
+color: ORANGE !important;
+
+
+}
+
+
+a.nav-link {
+    color: white !important;
+    
+    
+    }
+
+
+.txt-1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: start;
+}
+
+
+.txt {
+    color: white;
+    padding: 10px;
+    font-weight: 400;
+}
+
+
+header.header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    padding: 10px 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+a.nav-link {
+    color: #fff;
+}
+
+
+
+.header-btn2 {
+    padding: 20px 0px !important;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color: #fff;
+    font-family: "Rubik", sans-serif;
+    margin-right: 26px;
+}
+
+
+.btn_1 {
+    background-color: #F15B43;
+    color: #fff !important;
+    padding: 11px 20px;
+    font-size: 16px;
+    border-radius: 0px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border: 1px solid transparent;
+    display: inline-block;
+}
+
+.header-btn {
+    padding: 17px 30px !important;
+}
+
+.header-btnn {
+    padding-top: 15px;
+    
+}
+
+
+.section-tittle>span {
+    color: #65C9BB;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    display: inline-block;
+}
+
+
+.section-tittle p {
+    color: #777777;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+
+.section-tittle1 p {
+    color: #f4f1f1;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+
+
+a {
+    color: #635c5c;
+    text-decoration: none;
+}
+
+
+
+.section-bg {
+    background: #FCF2EB;
+}
+
+.btn_01 {
+    background-color: #F15B43;
+    color: #fff;
+    padding: 17px 35px;
+    font-size: 18px;
+    border-radius: 0px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    display: inline-block;
+}
+
+.border-btn {
+    border: 2px solid #F15B43;
+    color: #F15B43;
+    text-transform: normal;
+    padding: 16px 28px !important;
+    height: 65px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    transition: color 0.4s linear;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0px;
+    z-index: 1;
+}
+
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+
+.pt-60 {
+    padding-top: 60px;
+}
+
+.section-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.about-area1 .about-img img {
+    width: 100%;
+    border-radius: 4px;
+}
+
+
+.class-offer-area .properties__footer .class-day span {
+    color: #65C9BB;
+    font-family: "Jost", sans-serif;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Jost", sans-serif;
+    color: #263B5C;
+    margin-top: 0px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: normal;
+}
+
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: currentcolor;
+}
+
+
+.section-tittle.section-tittle2 span {
+    color: #fff;
+}
+
+.section-tittle.section-tittle2 h2 {
+    color: #fff;
+    font-size: xxx-large;
+}
+
+
+.our-services-area .single-services1 .services-cap h5 a {
+    color: #fff;
+    font-family: "Rubik", sans-serif;
+    font-size: 24px;
+    line-height: 1.4;
+    margin-bottom: 12px;
+    font-weight: 600;
+    display: block;
+}
+
+.our-services-area .single-services1 .services-cap p {
+    margin-bottom: 24px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #fff;
+}
+.properties__card{
+    background-color: #F4F2F1;
+    padding: 20px;
+}
+
+.section-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.section-tittle2 {
+    padding: 30px;
+}
+
+
+.footer-social li a {
+    color: #fff;
+    width: 54px;
+    height: 54px;
+    line-height: 54px;
+    border-radius: 0%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 8px;
+}
+
+.footer-social li .fb {
+    background: #3B5998;
+}
+
+.footer-social li .lnk {
+    background: #0077B5;
+}
+
+.footer-social li .ins {
+    background: #405DE6;
+}
+
+.footer-social li .yt {
+    background: #FF0000;
+}
+ul.footer-social{
+    list-style: none;
+}
+
+
+ul li{
+    list-style: none;
+    
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.footer-bottom-area .footer-border {
+    border-top: 1px solid rgba(211, 213, 226, 0.1);
+    padding-top: 18px;
+    padding-bottom: 1px;
+}
+
+
+.footer-padding {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.our-services-area.section-img-bg.section-padding {
+    margin-bottom: 100px;
+}
